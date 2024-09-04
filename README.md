@@ -20,12 +20,12 @@ You can click the Preview link to take a look at your changes.
 ### 🌟 Featured Projects
 - React News App: A news aggregation app built with React, offering users the latest news from multiple sources.
 - Online Food Ordering management:Developed an online food ordering DBMS with user authentication,menu management,order processing,payment integration,delivery tracking,and admin dashboard.
-- Portfolio Website: A personal portfolio showcasing my work, skills, and achievements, yet to be updated.
+- Portfolio Website: A personal portfolio showcasing my work, skills, and achievements.
 - flaskChess :Developed an AI chess Game using Python and Flask that validates user moves and generate AI responses in real-time.
 
 ### 💬 Contact Me
 - Email: amreenkhanrcr@gmail.com
-- Portfolio: yet to be uploaded
+- Portfolio:https://amreen556.github.io/porfolio/
 
 ### 🏆 Achievements
 - Certified in Business Intelligence using Power BI
