@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
  Hi there! 👋 I'm AMREEN BANU
 
 ### 🚀 About Me
-- 🎓 Education: I hold a degree in Bachelor of Engineering.
+- 🎓 Education:pursuing B.E in Computer Science and Engineering.
 - 🌱 Currently Learning: Exploring ,new technologies in data science field. 
 - 🛠 Working On: A React News App that aggregates and displays news from various sources.
 - 💼 Open to Opportunities: Actively seeking roles in Full Stack Development, Data Science.
