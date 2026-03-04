@@ -1,123 +1,100 @@
-👋 Hi, I'm Amreen Banu
+# 👩‍💻 Hi, I'm Amreen Banu  
 
-💻 Programmer Analyst at Cognizant
-🎓 B.E Graduate | 9+ CGPA | University Rank Holder
-🚀 Passionate Full Stack Developer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+Focused+Full+Stack+Developer;Programmer+Analyst+at+Cognizant;Aspiring+.NET+Microservices+Architect;Azure+AZ-900+Certified" />
+</p>
 
-👩‍💻 About Me
+---
 
-💼 Currently working as a Programmer Analyst at Cognizant
+## 🚀 About Me  
 
-🔹 Working with .NET Web API, Angular & SQL Server
-
-🌱 Currently learning:
-
-.NET Core Web API Microservices
-
-CQRS Pattern
-
-Docker
-
-Google Cloud Platform (GCP)
-
-☁️ Certified: Azure AZ-900
-
-🎯 Interested in Backend Architecture & Cloud Technologies
-
-🛠️ Tech Stack
-💻 Backend
-
-.NET Web API
-
-.NET Core
-
-C#
-
-SQL Server
-
-CQRS
-
-🎨 Frontend
-
-Angular
-
-React
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Bootstrap
-
-☁️ Cloud & Tools
-
-Azure (AZ-900 Certified)
-
-GCP (Learning)
-
-Docker
-
-Git & GitHub
-
-Postman
-
-🚀 Featured Projects
-🏨 Online Travel & Hospitality System
-
-Developed a web-based travel booking platform
-
-Backend using .NET Web API
-
-Database: SQL Server
-
-Focused on secure booking & dynamic pricing
-
-📰 React News App
-
-Built using React
-
-Fetches real-time news using APIs
-
-Responsive UI design
-
-🌐 Amreen Portfolio
-
-Personal portfolio website
-
-Built using HTML, CSS, JavaScript
-
-Showcases projects and technical skills
-
-📈 Currently Exploring
-
-Microservices Architecture
-
-Clean Architecture
-
-Domain Driven Design (DDD)
-
-CQRS with MediatR
-
-Docker Containerization
-
-📫 Connect With Me
-
-💼 LinkedIn: (Add your link here)
-
-🌐 Portfolio: (Add link here)
-
-📧 Email: amreenkhanrcr@gmail.com
-
-⭐ Quote I Believe In
-
-“Consistency and curiosity build great developers.”
+💼 Currently working as **Programmer Analyst at Cognizant**  
+🎓 University Rank Holder | 9+ CGPA  
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amreen556&show_icons=true&theme=radical)
+🔹 Working with:
+- ASP.NET Web API  
+- Angular  
+- SQL Server  
 
+🔹 Currently Learning:
+- .NET Core Microservices  
+- CQRS Pattern  
+- Clean Architecture  
+- Docker  
+- Google Cloud Platform (GCP)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amreen556&layout=compact)
+---
 
+## 🛠️ Tech Stack  
+
+### 💻 Backend
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### 🎨 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Featured Projects  
+
+### 🏨 Online Travel & Hospitality Management System  
+- Full-stack booking platform  
+- Built secure REST APIs using .NET Web API  
+- Implemented role-based authentication  
+- Optimized SQL queries for performance  
+
+---
+
+### 📰 React News App  
+- Real-time news application using React  
+- Integrated third-party APIs  
+- Built responsive UI with reusable components  
+
+---
+
+### 🌐 Amreen Portfolio  
+- Personal portfolio website  
+- Built using HTML, CSS, JavaScript  
+- Responsive & performance optimized  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amreen556&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amreen556&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Focus  
+
+✔ Building scalable Microservices  
+✔ Learning advanced backend architecture  
+✔ Preparing for high-impact product-based roles  
+
+---
+
+## 📫 Connect With Me  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/amreen-banu-32a162313
+- 🌐 Portfolio: https://amreen556.github.io/Amreen-portfolio/ 
+- 📧 Email: amreenkhanrcr@gmail.com
+
+---
+
+<p align="center">
+  ⭐ "Consistency and curiosity build great developers."
+</p>
