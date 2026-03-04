@@ -1,36 +1,123 @@
-<!---
-amreen556/amreen556 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- Hi there! 👋 I'm AMREEN BANU
+👋 Hi, I'm Amreen Banu
 
-### 🚀 About Me
-- 🎓 Education:pursuing B.E in Computer Science and Engineering.
-- 🌱 Currently Learning: Exploring ,new technologies in data science field. 
-- 🛠 Working On: A React News App that aggregates and displays news from various sources.
-- 💼 Open to Opportunities: Actively seeking roles in Full Stack Development, Data Science.
+💻 Programmer Analyst at Cognizant
+🎓 B.E Graduate | 9+ CGPA | University Rank Holder
+🚀 Passionate Full Stack Developer
 
-### 🛠 Tech Stack
-- Languages:  Python,Java
-- Frontend:  React, HTML, CSS, Bootstrap
-- Backend:  Node.js, Express.js
-- Database:  MySQL
-- Tools & Platforms: Git, GitHub, VS Code
+👩‍💻 About Me
 
-### 🌟 Featured Projects
-- React News App: A news aggregation app built with React, offering users the latest news from multiple sources.
-- Online Food Ordering management:Developed an online food ordering DBMS with user authentication,menu management,order processing,payment integration,delivery tracking,and admin dashboard.
-- Portfolio Website: A personal portfolio showcasing my work, skills, and achievements.
-- flaskChess :Developed an AI chess Game using Python and Flask that validates user moves and generate AI responses in real-time.
+💼 Currently working as a Programmer Analyst at Cognizant
 
-### 💬 Contact Me
-- Email: amreenkhanrcr@gmail.com
-- Portfolio:https://amreen556.github.io/porfolio/
+🔹 Working with .NET Web API, Angular & SQL Server
 
-### 🏆 Achievements
-- Certified in Business Intelligence using Power BI
-- Ranked 3rd in my B.E. course at university level
-- Top rank holder of the department.
+🌱 Currently learning:
 
-### 🌍 Let's Connect
-- I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
+.NET Core Web API Microservices
+
+CQRS Pattern
+
+Docker
+
+Google Cloud Platform (GCP)
+
+☁️ Certified: Azure AZ-900
+
+🎯 Interested in Backend Architecture & Cloud Technologies
+
+🛠️ Tech Stack
+💻 Backend
+
+.NET Web API
+
+.NET Core
+
+C#
+
+SQL Server
+
+CQRS
+
+🎨 Frontend
+
+Angular
+
+React
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Bootstrap
+
+☁️ Cloud & Tools
+
+Azure (AZ-900 Certified)
+
+GCP (Learning)
+
+Docker
+
+Git & GitHub
+
+Postman
+
+🚀 Featured Projects
+🏨 Online Travel & Hospitality System
+
+Developed a web-based travel booking platform
+
+Backend using .NET Web API
+
+Database: SQL Server
+
+Focused on secure booking & dynamic pricing
+
+📰 React News App
+
+Built using React
+
+Fetches real-time news using APIs
+
+Responsive UI design
+
+🌐 Amreen Portfolio
+
+Personal portfolio website
+
+Built using HTML, CSS, JavaScript
+
+Showcases projects and technical skills
+
+📈 Currently Exploring
+
+Microservices Architecture
+
+Clean Architecture
+
+Domain Driven Design (DDD)
+
+CQRS with MediatR
+
+Docker Containerization
+
+📫 Connect With Me
+
+💼 LinkedIn: (Add your link here)
+
+🌐 Portfolio: (Add link here)
+
+📧 Email: amreenkhanrcr@gmail.com
+
+⭐ Quote I Believe In
+
+“Consistency and curiosity build great developers.”
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amreen556&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amreen556&layout=compact)
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
