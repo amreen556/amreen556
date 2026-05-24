@@ -1,7 +1,7 @@
 # 👩‍💻 Hi, I'm Amreen Banu  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+Focused+Full+Stack+Developer;Programmer+Analyst+at+Cognizant;Aspiring+.NET+Microservices+Architect;Azure+AZ-900+Certified" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+Focused+Full+Stack+Developer;Programmer+Analyst+at+Cognizant;Aspiring+.NET+Microservices+GCP;Azure+DevOps+Azure+AZ-900+Certified" />
 </p>
 
 ---
@@ -13,17 +13,12 @@
 
 
 🔹 Working with:
-- ASP.NET Web API  
+- .NET Microservices
+- GCP
+- Azure DevOps
 - Angular  
 - SQL Server  
-
-🔹 Currently Learning:
-- .NET Core Microservices  
-- CQRS Pattern  
-- Clean Architecture  
-- Docker  
-- Google Cloud Platform (GCP)  
-
+  
 ---
 
 ## 🛠️ Tech Stack  
