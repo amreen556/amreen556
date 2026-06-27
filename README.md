@@ -75,7 +75,6 @@
 ## 📫 Connect With Me  
 
 - 💼 LinkedIn: https://www.linkedin.com/in/amreen-banu-32a162313
-- 🌐 Portfolio: https://amreen556.github.io/Amreen-portfolio/ 
 - 📧 Email: amreenkhanrcr@gmail.com
 
 ---
